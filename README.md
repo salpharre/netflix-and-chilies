@@ -94,5 +94,5 @@
                 - City Geo-Location Lookup - Convert city location to latitude and longitude
 
 ### Check it out!
-- Link to deployed application: https://saularjm.github.io/netflix-and-chilies/
+- Link to deployed application: https://salpharre.github.io/netflix-and-chilies/
 
